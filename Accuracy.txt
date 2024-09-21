@@ -1,0 +1,6 @@
+Heart Disease Prediction using Machine Learning and Data Analytics Approach.
+
+Algorithm / Model Used: Artificial Neural Network (ANN).
+
+Training Accuracy: 0.9307 and 
+Validation Accuracy: 0.8478.

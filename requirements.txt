@@ -1,0 +1,14 @@
+pip install tensorflow==2.4.0
+pip install keras==2.4.2
+pip install scikit-learn==0.23.1
+pip install Flask==2.0.1
+pip install Werkzeug==2.2.2
+pip install pillow==10.3.0
+pip install protobuf==3.20.0
+pip install pandas==1.1.5
+pip install numpy==1.19.5
+
+python 3.8
+*****************************************
+In predictor.py file - line 7 Change the path 
+*****************************************
